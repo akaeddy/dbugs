@@ -1,7 +1,7 @@
-import iostream;
-import cstdio;
-
+#include <iostream>
+#include <cstdio>
+using namespace std;
 main() {
-    cout << "Helloooooooooooooooooooooooooo "
+    cout << "Helloooooooooooooooooooooooooo " <<
     "wooooooooooooooooooooooooooorld!" << endl;
 }
